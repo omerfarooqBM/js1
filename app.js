@@ -4,6 +4,16 @@
 
 // console.log("this is alert")
 
-var message = "Hello World"
+// var message = "Hello World"
 
-alert(message) 
+// alert(message) 
+
+
+// var book= "A smarter way to learn JavaScript"
+// document.write(book)
+
+// var age = 22
+// alert("my age is"+" "+age)
+
+// var birthyear = 1998
+// document.write("My birthyear is"+" "+ birthyear)
